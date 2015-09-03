@@ -1,0 +1,44 @@
+#output.txt - David Iacono - CSC 412 Spring 2014 - URI - Dr. Mello-Stark
+#Project 3 Sleeping TA
+
+Student 0: I'll check the room for help!
+Student 0: Hi TA, I have a few questions!
+TA: Hi Student, how can I assist you?
+Student 2: I'll check the room for help!
+Student 2: I will take a seat in the hallway!
+Student 2: The TA is busy, I'll sit here and program.
+Student 3: I'll check the room for help!
+Student 3: I will take a seat in the hallway!
+Student 3: The TA is busy, I'll sit here and program.
+Student 0: Thanks for the help!
+Student 4: I'll check the room for help!
+Student 4: Hi TA, I have a few questions!
+Student 1: I'll check the room for help!
+Student 1: I will take a seat in the hallway!
+Student 1: The TA is busy, I'll sit here and program.
+TA: Hi Student, how can I assist you?
+Student 2: I'll check the room for help!
+Student 2: The TA is busy, I'll sit here and program.
+Student 3: I'll check the room for help!
+Student 3: The TA is busy, I'll sit here and program.
+Student 4: Thanks for the help!
+Student 1: I'll check the room for help!
+Student 1: Hi TA, I have a few questions!
+TA: Hi Student, how can I assist you?
+Student 2: I'll check the room for help!
+Student 2: The TA is busy, I'll sit here and program.
+Student 3: I'll check the room for help!
+Student 3: The TA is busy, I'll sit here and program.
+Student 1: Thanks for the help!
+Student 2: I'll check the room for help!
+Student 2: Hi TA, I have a few questions!
+Student 3: I'll check the room for help!
+Student 3: The TA is busy, I'll sit here and program.
+TA: Hi Student, how can I assist you?
+Student 2: Thanks for the help!
+Student 3: I'll check the room for help!
+Student 3: Hi TA, I have a few questions!
+TA: Hi Student, how can I assist you?
+Student 3: Thanks for the help!
+
+The TA is gone for the day
